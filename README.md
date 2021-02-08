@@ -17,7 +17,7 @@ This repository contains my solutions for labs and programming assignments on Co
 <summary>Details</summary>
 
 #### Week 1 - Functional APIs
-- [Lab: Functional API Practice](https://github.com/stephenjohnmoore/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1_W1_Lab_1_functional-practice.ipynb)
+- [Lab: Functional API Practice](https://github.com/stephenjohnmoore/Coursera-Deep-Learning/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1_W1_Lab_1_functional-practice.ipynb)
 - [Lab: Multi-output](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1_W1_Lab_2_multi-output.ipynb)
 - [Lab: Siamese network](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1_W1_Lab_3_siamese-network.ipynb)
 - [Programming Assignment: Multiple Output Models using Keras Functional API](https://github.com/y33-j3T/Coursera/blob/master/Custom%20Models%2C%20Layers%2C%20and%20Loss%20Functions%20with%20TensorFlow/Week%201%20-%20Functional%20APIs/C1W1_Assignment.ipynb)
